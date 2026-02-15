@@ -1,8 +1,8 @@
 ### Hi, I'm Akentiev
 
-I build AI-powered systems that automate business operations.
+Architect first. Digital second.
 
-Not chatbots with buttons — **digital operators** that handle client communication, bookings, lead qualification, and sales autonomously.
+I design systems that structure chaos — and implement them as working solutions.
 
 **Current projects:**
 - 🔄 **Cycliq** — AI ecosystem for business automation (bot + CRM + landing)
@@ -10,12 +10,12 @@ Not chatbots with buttons — **digital operators** that handle client communica
 - 💻 **NeroCode OS** — SPA for neuroscience-based transformation platform
 
 **What I do:**
-- AI assistants for Telegram, web, and voice
-- Automated sales funnels with AI qualification
-- CRM integration and business process automation
+- Business system architecture
+- AI assistants and automated funnels
+- Full-stack implementation
 
-**Stack:** Node.js, TypeScript, React, Next.js, Tailwind CSS, Claude API, Supabase, Stripe, Docker, Vercel
+**Stack:** Node.js, TypeScript, React, Next.js, Tailwind CSS, Claude API, Supabase, Stripe, Docker
 
 ---
 
-*Building systems that work without you — so you can focus on what matters.*
+*I think in systems. I build in code.*
